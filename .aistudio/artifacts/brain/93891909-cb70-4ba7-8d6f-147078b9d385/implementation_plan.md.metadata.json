@@ -1,0 +1,6 @@
+{
+  "summary":  "Plano de implementação revisado com integração multi-provedor (INMET, Open-Meteo, CEMADEN, CPTEC/INPE) e módulo de Customização Total de parâmetros, limiares de risco, pesos da matriz de correlação, concessões e provedores.",
+  "updatedAt":  "2026-11-10T19:06:06.203901915Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

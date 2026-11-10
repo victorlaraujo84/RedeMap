@@ -1,0 +1,6 @@
+{
+  "name": "RedeMap — Mapeamento Dinâmico de Ativos de Rede",
+  "description": "Plataforma de mapeamento dinâmico de rede com Google Maps, telemetria meteorológica, topologia interativa e inventário de ativos.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
